@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi, I'm Frank! 👋
 
-I'm Frank. Nice to meet you. When I was 12, I managed to talk my parents into letting me buy a computer and I learned how fun programming could be. Many decades later I'm still having fun writing code in my spare time and as part of my work!
+It's nice to meet you. When I was 12, I managed to talk my parents into letting me buy a computer and I learned how fun programming could be. Many decades later I'm still having fun writing code in my spare time and as part of my work!
 
 ## Private coding projects
 
@@ -19,15 +19,21 @@ https://github.com/pdxiv/monkey-island-pc-speaker-theme-on-arduino
 
 None of the above projects are abandoned, and if you’re using them and you run into some problem, I’ll be happy to help out. The world just has too many interesting things competing for time and attention sometimes and priorities are hard to make.
 
-🔧 Technologies and Tools
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+## 🔧 Technologies and Tools
 
-
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublimetext&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Perl-informational?style=flat&logo=perl&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Wireshark-informational?style=flat&logo=wireshark&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
 
 <!--
 **pdxiv/pdxiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
