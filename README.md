@@ -23,17 +23,16 @@ It's nice to meet you. When I was 12, I managed to talk my parents into letting 
 These are some of the projects that I've been working on recently.
 
 ### 🎮 Text adventure games
-* PerlScott, a game interpreter made by translating the TRS-80 Basic code listing from Byte Magazine into Perl: GitHub - pdxiv/PerlScott: Scott Adams adventure interpreter in Perl 1
-* Adventshark, a graphical game editor, written in Python3 and PyQt: https://pdxiv.github.io GitHub - pdxiv/adventshark: GUI text adventure editor, compatible with Scott Adams/Adventure International
-* tensodoct, a JavaScript/node.js conversion of PerlScott: GitHub - pdxiv/tensodoct: node.js interpreter for Scott Adams format text adventures 1
-* trombicula, a lightweight JavaScript/HTML text adventure interpreter based on tensodoct: GitHub - pdxiv/trombicula
-* sk2sadat, an optimized alternative compiler for ScottKit language files into game data files, written in Perl: GitHub - pdxiv/sk2sadat: Convert ScottKit to Scott Adams DAT format 4
+* [PerlScott](https://github.com/pdxiv/PerlScott), a game interpreter made by translating the TRS-80 Basic code listing from Byte Magazine into Perl
+* [Adventshark](https://github.com/pdxiv/adventshark), a graphical game editor, written in Python3 and PyQt
+* [tensodoct](https://github.com/pdxiv/tensodoct), a JavaScript/node.js conversion of PerlScott
+* [trombicula](https://github.com/pdxiv/trombicula), a lightweight JavaScript/HTML text adventure interpreter based on tensodoct
+* [sk2sadat](https://github.com/pdxiv/sk2sadat), an optimized alternative compiler for ScottKit language files into game data files, written in Perl
 
 ### ✨ Other things
-* fosfor, a functioning proof-of-concept for a high speed "matching engine" for connecting sellers to buyers in financial transactions, written in C.
-* monkey-island-pc-speaker-theme-on-arduino, a silly little arduino thing written to prank a colleague.
-https://github.com/pdxiv/monkey-island-pc-speaker-theme-on-arduino
-* file-web-uploader, a simple Go service for uploading files using websocket. https://github.com/pdxiv/file-web-uploader
+* [fosfor](https://github.com/pdxiv/fosfor), a functioning proof-of-concept for a high speed "matching engine" for connecting sellers to buyers in financial transactions, written in C.
+* [monkey-island-pc-speaker-theme-on-arduino](https://github.com/pdxiv/monkey-island-pc-speaker-theme-on-arduino), a silly little arduino thing originally written to prank a colleague
+* [file-web-uploader](https://github.com/pdxiv/file-web-uploader), a simple Go service for uploading files using websocket
 
 None of the above projects are abandoned, and if you’re using them and you run into some problem, I’ll be happy to help out. The world just has too many interesting things competing for time and attention sometimes and priorities are hard to make.
 
