@@ -30,6 +30,7 @@ These are some of the projects that I've been working on recently.
 * [sk2sadat](https://github.com/pdxiv/sk2sadat), an optimized alternative compiler for ScottKit language files into game data files, written in Perl
 
 ### ✨ Other things
+* [frugalpromproxy](https://github.com/pdxiv/frugalpromproxy), a simple experimental tool to reduce the number of Prometheus metrics, to lower resource utilization.
 * [fosfor](https://github.com/pdxiv/fosfor), a functioning proof-of-concept for a high speed "matching engine" for connecting sellers to buyers in financial transactions, written in C.
 * [monkey-island-pc-speaker-theme-on-arduino](https://github.com/pdxiv/monkey-island-pc-speaker-theme-on-arduino), a silly little arduino thing originally written to prank a colleague
 * [file-web-uploader](https://github.com/pdxiv/file-web-uploader), a simple Go service for uploading files using websocket
